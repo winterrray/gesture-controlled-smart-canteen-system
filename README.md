@@ -26,4 +26,6 @@
   - Record the corresponding order in DB
 
 ### flowchart
-  ![flowchart](https://github.com/winterrray/gesture-controlled-smart-canteen-system/blob/main/canteen.jpg?raw=true)
+![flowchart](https://github.com/winterrray/gesture-controlled-smart-canteen-system/blob/main/canteen_flowchart.jpg?raw=true)  
+![flowchart](https://github.com/winterrray/gesture-controlled-smart-canteen-system/blob/main/canteen_hand.jpg?raw=true)  
+![flowchart](https://github.com/winterrray/gesture-controlled-smart-canteen-system/blob/main/canteen.jpg?raw=true)
