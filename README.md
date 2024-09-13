@@ -6,9 +6,9 @@ Tools
   - Hand Mapping
 - NumPy
 - MySQL
-
-
-
+  
+  
+  
 Methodology
 - OpenCV
   - Video / Image Processing
@@ -19,9 +19,9 @@ Methodology
   - To store name, order and bill of each person
   - To mark and store the menu details
   - To store each gesture dataset
-
-
-
+  
+  
+  
 Workflow
   - Add gesture details
   - Use external camera or input
