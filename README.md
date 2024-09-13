@@ -1,15 +1,13 @@
 # gesture-controlled-smart-canteen-system
 
-Tools
+## Tools
 - OpenCV
   - Image Processing
   - Hand Mapping
 - NumPy
 - MySQL
   
-  
-  
-Methodology
+## Methodology
 - OpenCV
   - Video / Image Processing
     - Recognise
@@ -20,11 +18,12 @@ Methodology
   - To mark and store the menu details
   - To store each gesture dataset
   
-  
-  
-Workflow
+## Workflow
   - Add gesture details
   - Use external camera or input
   - Recognise and map the gesture points
   - Check for match and determine % similarity
   - Record the corresponding order in DB
+
+### flowchart
+  ![flowchart](https://github.com/winterrray/gesture-controlled-smart-canteen-system/blob/main/canteen.jpg?raw=true)
